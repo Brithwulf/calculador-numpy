@@ -32,7 +32,6 @@ pip install numpy
 
 ## Estrutura do Projeto
 ```
-Estrutura do Projeto
 |-- README.md             # Documentação do projeto
 |-- estatisticas.py       # Código-fonte principal
 ```
