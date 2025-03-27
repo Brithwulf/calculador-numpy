@@ -29,6 +29,8 @@ Para rodar o projeto, você precisa ter o Python instalado em sua máquina, alé
 pip install numpy
 ```
 2. Baixe o projeto ou clone o repositório.
+
+## Estrutura do Projeto
 ```
 Estrutura do Projeto
 |-- README.md             # Documentação do projeto
