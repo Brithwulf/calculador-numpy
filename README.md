@@ -1,4 +1,4 @@
-Calculador de Estatísticas Numéricas com Numpy
+## Calculador de Estatísticas Numéricas com Numpy
 
 Este é um projeto Python que utiliza a biblioteca `numpy` para calcular uma série de estatísticas de uma lista de 9 números. O objetivo é demonstrar como manipular matrizes 3x3 e calcular métricas como média, variância, desvio padrão, máximo, mínimo e soma de forma simples.
 
